@@ -4,7 +4,6 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
 ### Technologies
@@ -14,8 +13,11 @@
 
 ### Full Stack Projects
 
-<!-- [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2) -->
-Coming soon
+![AUF-Badge](https://img.shields.io/badge/%F0%9F%92%9AAdote%20uma%20Familia-darkgreen?link=https%3A%2F%2Fadoteumafamilia.org%2F)
+![Connect Badge](https://img.shields.io/badge/%F0%9F%94%97%20BRASA%20Connect-blue?link=https%3A%2F%2Fbrasaconnect.com%2F)
+
+
+
 
 <a href="#">
 <!-- <img height="137px" src="https://github-readme-stats.vercel.app/api?username=juliabadin&hide_title=true&hide=stars,prs,issues,contribs&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=jolly" /> -->
